@@ -5,16 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv362/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv362/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Simulation
 |  |
 | ------- |
