@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv362/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/Dhruv362/DSA/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
