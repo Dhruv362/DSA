@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv362/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 | [2652-sum-multiples](https://github.com/Dhruv362/DSA/tree/master/2652-sum-multiples) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
