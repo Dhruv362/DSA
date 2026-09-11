@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv362/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv362/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhruv362/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv362/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhruv362/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv362/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv362/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
