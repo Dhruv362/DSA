@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Dhruv362/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhruv362/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv362/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Dhruv362/DSA/tree/master/0010-regular-expression-matching) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv362/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Dhruv362/DSA/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhruv362/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv362/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
