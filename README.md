@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv362/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
