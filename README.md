@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Dhruv362/DSA/tree/master/0031-next-permutation) |
 | [0835-image-overlap](https://github.com/Dhruv362/DSA/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhruv362/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv362/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Dhruv362/DSA/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
