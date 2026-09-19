@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Dhruv362/DSA/tree/master/0029-divide-two-integers) |
 | [0836-rectangle-overlap](https://github.com/Dhruv362/DSA/tree/master/0836-rectangle-overlap) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhruv362/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dhruv362/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2652-sum-multiples](https://github.com/Dhruv362/DSA/tree/master/2652-sum-multiples) |
 | [3870-count-commas-in-range](https://github.com/Dhruv362/DSA/tree/master/3870-count-commas-in-range) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dhruv362/DSA/tree/master/0029-divide-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhruv362/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
