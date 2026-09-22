@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Dhruv362/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv362/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv362/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Dhruv362/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Dhruv362/DSA/tree/master/0039-combination-sum) |
 | [0835-image-overlap](https://github.com/Dhruv362/DSA/tree/master/0835-image-overlap) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv362/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv362/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv362/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhruv362/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bracket Sequences
