@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Dhruv362/DSA/tree/master/0029-divide-two-integers) |
+| [0788-rotated-digits](https://github.com/Dhruv362/DSA/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Dhruv362/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dhruv362/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhruv362/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Dhruv362/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Dhruv362/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhruv362/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0788-rotated-digits](https://github.com/Dhruv362/DSA/tree/master/0788-rotated-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/Dhruv362/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv362/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dhruv362/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
