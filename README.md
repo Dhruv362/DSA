@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv362/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv362/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Dhruv362/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
