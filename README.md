@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhruv362/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv362/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv362/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Dhruv362/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv362/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhruv362/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Dhruv362/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Dhruv362/DSA/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Dhruv362/DSA/tree/master/0090-subsets-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhruv362/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Dhruv362/DSA/tree/master/0835-image-overlap) |
 | [1861-rotating-the-box](https://github.com/Dhruv362/DSA/tree/master/1861-rotating-the-box) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhruv362/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
