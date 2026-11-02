@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dhruv362/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Dhruv362/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dhruv362/DSA/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Dhruv362/DSA/tree/master/0090-subsets-ii) |
 | [0835-image-overlap](https://github.com/Dhruv362/DSA/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv362/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Dhruv362/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
 | [1861-rotating-the-box](https://github.com/Dhruv362/DSA/tree/master/1861-rotating-the-box) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv362/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv362/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv362/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv362/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv362/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -283,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruv362/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
