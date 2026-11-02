@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Dhruv362/DSA/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Dhruv362/DSA/tree/master/0090-subsets-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv362/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Dhruv362/DSA/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv362/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv362/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhruv362/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Dhruv362/DSA/tree/master/0029-divide-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv362/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/Dhruv362/DSA/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Dhruv362/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dhruv362/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv362/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv362/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dhruv362/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv362/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Dhruv362/DSA/tree/master/2126-destroying-asteroids) |
