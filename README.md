@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv362/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Dhruv362/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv362/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv362/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhruv362/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv362/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruv362/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv362/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv362/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhruv362/DSA/tree/master/3838-weighted-word-mapping) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Dhruv362/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
 | [1861-rotating-the-box](https://github.com/Dhruv362/DSA/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv362/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv362/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
