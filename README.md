@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dhruv362/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Dhruv362/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dhruv362/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Dhruv362/DSA/tree/master/0086-partition-list) |
 | [1861-rotating-the-box](https://github.com/Dhruv362/DSA/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv362/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv362/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Dhruv362/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhruv362/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/Dhruv362/DSA/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
