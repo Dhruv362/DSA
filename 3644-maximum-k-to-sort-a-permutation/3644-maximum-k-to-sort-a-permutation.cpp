@@ -8,6 +8,6 @@ public:
                 else output &= nums[i];
             }
         }
-        return (output >= 1 ? output : 0);
+        return (output >= 0 ? output : 0);
     }
 };
