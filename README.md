@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Dhruv362/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhruv362/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhruv362/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dhruv362/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv362/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dhruv362/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Dhruv362/DSA/tree/master/3665-twisted-mirror-path-count) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Dhruv362/DSA/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Dhruv362/DSA/tree/master/0090-subsets-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhruv362/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dhruv362/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
