@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv362/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv362/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhruv362/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhruv362/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Dhruv362/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv362/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruv362/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv362/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Dhruv362/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv362/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhruv362/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Dhruv362/DSA/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhruv362/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dhruv362/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dhruv362/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv362/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhruv362/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhruv362/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Combinatorics
 |  |
 | ------- |
