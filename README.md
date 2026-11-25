@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dhruv362/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Dhruv362/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv362/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruv362/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhruv362/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhruv362/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dhruv362/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhruv362/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv362/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhruv362/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv362/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3934-smallest-unique-subarray](https://github.com/Dhruv362/DSA/tree/master/3934-smallest-unique-subarray) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dhruv362/DSA/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Dhruv362/DSA/tree/master/0835-image-overlap) |
 | [1861-rotating-the-box](https://github.com/Dhruv362/DSA/tree/master/1861-rotating-the-box) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhruv362/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Dhruv362/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhruv362/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhruv362/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
@@ -341,10 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dhruv362/DSA/tree/master/0100-same-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhruv362/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv362/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv362/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dhruv362/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
